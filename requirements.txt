@@ -1,0 +1,7 @@
+streamlit
+psycopg2-binary
+python-dotenv
+passlib
+python-jose
+watchdog
+traceback
